@@ -1,0 +1,8 @@
+tensorflow
+streamlit
+tensorflow-cpu
+numpy
+pandas
+pip
+setuptools
+
