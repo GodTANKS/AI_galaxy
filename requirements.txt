@@ -1,0 +1,9 @@
+tensorflow
+streamlit
+tensorflow-cpu
+numpy
+pandas
+pip
+setuptools
+sklearn.model_selection
+sklearn.metrics
